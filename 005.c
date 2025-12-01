@@ -1,3 +1,4 @@
+//5) Sum of sequence using sentinel
 #include <stdio.h>
 int main(){
 int n,sum=0;
