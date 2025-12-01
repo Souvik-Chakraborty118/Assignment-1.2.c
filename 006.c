@@ -1,4 +1,6 @@
 //6 Prime number or not 
+#include <stdio.h>
+int main(){
 int n,a=0;
 printf("\nEnter a positive number: ");
 scanf("%d",&n);
