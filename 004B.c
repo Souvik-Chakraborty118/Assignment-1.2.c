@@ -1,5 +1,5 @@
 //4) Compute Grade according to marks
-//a) Now using switch case
+//B) Now using switch case
 #include <stdio.h>
 int main(){
 int m;
